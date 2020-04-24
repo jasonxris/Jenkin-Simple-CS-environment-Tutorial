@@ -8,9 +8,11 @@ This Tutorial has 2 parts.
 - The Tutorial 
 
 
-The Pre-Class assignment contains links to videos and sites that give a good overview of Continuous Delivery (CD) environments.  
+The Pre-Class assignment contains links to videos and sites that give a good overview of what Jenkins is. It gives the reader a foundation to 
+Build on in the tutorials. 
 
 
-The Tutorial contains step by step explanations of how to change a simple Jenkins CS Environment into a CD Environment using Docker and a Jenkins file. 
+The Tutorial contains step by step explanations of the Jenkins dashboard as well as basic functionalities. It also contains Step by step instructions
+on how to create a basic pipeline in Jenkins. 
 
 
